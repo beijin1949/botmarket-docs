@@ -21,7 +21,7 @@ export default defineUserConfig({
         style: "@vuepress-reco/style-default",
         logo: "/logo.png",
         authorAvatar: "/head.png",
-        docsRepo: "https://github.com/vuepress-reco/vuepress-theme-reco-next",
+        docsRepo: "https://github.com/beijin1949/botmarket-docs",
         docsBranch: "main",
         autoSetSeries: true,
         primaryColor: '#0075ff',
